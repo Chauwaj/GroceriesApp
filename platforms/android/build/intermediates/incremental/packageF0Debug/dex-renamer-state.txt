@@ -1,0 +1,4 @@
+#Sat Jul 08 21:36:49 EDT 2017
+base.0=C\:\\Users\\chauwaj\\Desktop\\Native Script Projects\\Groceries\\platforms\\android\\build\\intermediates\\transforms\\dex\\F0\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=C\:\\Users\\chauwaj\\Desktop\\Native Script Projects\\Groceries\\platforms\\android\\build\\intermediates\\transforms\\dex\\F0\\debug\\folders\\1000\\1f\\main\\classes.dex

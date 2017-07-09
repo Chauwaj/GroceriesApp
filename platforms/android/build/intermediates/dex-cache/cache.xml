@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\chauwaj\Desktop\Native Script Projects\Groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\chauwaj\Desktop\Native Script Projects\Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-core-utils-25.3.1_08a8bb96e34bfc1086da36678191843e7af27083.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chauwaj\Desktop\Native Script Projects\Groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\chauwaj\Desktop\Native Script Projects\Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-fragment-25.3.1_e1ad4edac11103abff5661be04eb192aef25268c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chauwaj\Desktop\Native Script Projects\Groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\transition\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\chauwaj\Desktop\Native Script Projects\Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-transition-25.3.1_b1e95bc1e9065f1f3f9a323037547d12402f60c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Program Files (x86)\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\chauwaj\Desktop\Native Script Projects\Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\support-annotations-25.3.1_59bfa56b4a1393e0d8db416b0ff3610a3842369c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chauwaj\Desktop\Native Script Projects\Groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\chauwaj\Desktop\Native Script Projects\Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-media-compat-25.3.1_9b06e3e5b4232e685499044adb66d82f6932775b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chauwaj\Desktop\Native Script Projects\Groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\chauwaj\Desktop\Native Script Projects\Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-appcompat-v7-25.3.1_f787ce618f3334e6c836551906f08b291e6b7efc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chauwaj\Desktop\Native Script Projects\Groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\chauwaj\Desktop\Native Script Projects\Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-animated-vector-drawable-25.3.1_f6cc4f6266206eef93fa563e979c0b6f8a844619.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chauwaj\Desktop\Native Script Projects\Groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\chauwaj\Desktop\Native Script Projects\Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-compat-25.3.1_4ab22c9f2ce55105b56923c37cb44c140d4baa84.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chauwaj\Desktop\Native Script Projects\Groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\chauwaj\Desktop\Native Script Projects\Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-vector-drawable-25.3.1_63faa5368f4d147d1c392bb729f674b90305cb5f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chauwaj\Desktop\Native Script Projects\Groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\chauwaj\Desktop\Native Script Projects\Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-recyclerview-v7-25.3.1_eb3734ba9a2a5c1415b2297a2daf321d636a7536.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chauwaj\Desktop\Native Script Projects\Groceries\platforms\android\build\intermediates\exploded-aar\Groceries\runtime\unspecified\jars\libs\binding-generator.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a3e74f5f1ebe12c7cfa6591158ef298c95a5275f">
+        <dex dex="C:\Users\chauwaj\Desktop\Native Script Projects\Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\binding-generator_8d26cd59bf9eb92dbf8f037aee7cb3d8c2a04162.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chauwaj\Desktop\Native Script Projects\Groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\chauwaj\Desktop\Native Script Projects\Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-core-ui-25.3.1_267cbdae871282445c8c7817d1aed510b263913f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chauwaj\Desktop\Native Script Projects\Groceries\platforms\android\build\intermediates\exploded-aar\Groceries\runtime\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="30b97ea5d6274e02330dcc69943087778363c172">
+        <dex dex="C:\Users\chauwaj\Desktop\Native Script Projects\Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\Groceries-runtime-unspecified_4cb513a2e8ae10eff3adafc1629ee834af3b1af5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chauwaj\Desktop\Native Script Projects\Groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\design\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\chauwaj\Desktop\Native Script Projects\Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-design-25.3.1_c036191d495f362bcaf306215282fe47a22b47fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chauwaj\Desktop\Native Script Projects\Groceries\platforms\android\build\intermediates\exploded-aar\widgets-release\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ed69cd5603304a6fc9a36a94c8be977a1d0e4857">
+        <dex dex="C:\Users\chauwaj\Desktop\Native Script Projects\Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\intermediates-exploded-aar-widgets-release_b8cd78749393c1bbbd425c155c3af72b1c861563.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chauwaj\Desktop\Native Script Projects\Groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\chauwaj\Desktop\Native Script Projects\Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-v4-25.3.1_f8a5d8850fbf5d7780770e556634b7c16dd877c1.jar" />
+    </item>
+
+</items>
